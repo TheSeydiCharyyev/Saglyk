@@ -1,0 +1,2 @@
+/Users/meylisannagurbanov/Desktop/Seydi/clinic_flutter_bloc/android/app/.cxx/RelWithDebInfo/3ltw1l3f/x86_64/CMakeFiles/edit_cache.dir
+/Users/meylisannagurbanov/Desktop/Seydi/clinic_flutter_bloc/android/app/.cxx/RelWithDebInfo/3ltw1l3f/x86_64/CMakeFiles/rebuild_cache.dir
